@@ -69,3 +69,11 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+.color-primary {
+  color: $primary;
+}
+
+.background-gray-100 {
+  background-color: $gray-100;
+}
